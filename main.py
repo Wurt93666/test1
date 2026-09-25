@@ -1,6 +1,7 @@
 """练习项目：抓取网页标题
 运行前先激活虚拟环境并安装依赖：
     pip install -r requirements.txt
+测试pull  
 """
 import requests
 import re
